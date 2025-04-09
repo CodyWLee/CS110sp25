@@ -1,7 +1,7 @@
 # **Cody Lee**<br/>
 ## _Math CS Major_<br/>
 >Math is hard<br/>
-[User page](main/README.md)
+[User page](README.md)
 ### I like to:<br/>
 ```
 -Play video games
